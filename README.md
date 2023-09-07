@@ -75,10 +75,6 @@ npx react-native run-ios # For iOS (macOS environment only)
 
 This will start the application on your emulator or device. You will see the form with a text input field, and the entered value will be displayed below.
 
-## Customization
-
-You can customize the application by changing the properties of the `TextInputComponent` and `OutputComponent` components in the `App.js` file. This allows you to modify the label, initial value of the text input field, and other aspects of the form.
-
 ## Contribution
 
 If you'd like to contribute to this project, feel free to create a pull request. I'll be happy to review and incorporate improvements.
